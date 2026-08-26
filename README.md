@@ -434,14 +434,4 @@ This module is provided under the MIT License - see LICENSE file for details.
 - [FastAPI Security](https://fastapi.tiangolo.com/advanced/security/)
 - [Argon2 Password Hashing](https://password-hashing.info/)
 
-## 🎉 Getting Started
 
-1. ✅ Clone the repository
-2. ✅ Review [Getting Started Guide](docs/README.md)
-3. ✅ Choose your [Integration Pattern](docs/integration/INTEGRATION_GUIDE.md)
-4. ✅ Follow [API Reference](docs/api/API_REFERENCE.md)
-5. ✅ Deploy to your platform
-
----
-
-**Made for production. Built with security first. Designed for reusability.** 🔐🚀
